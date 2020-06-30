@@ -2276,16 +2276,12 @@ input, select, textarea {
 	font-size: 18px;
 	color: rgb(102, 18, 102);
 }
-.imagefit{
-	
-	width: 1050px;
-	height: 1400px;
-}
+
 .btn{
-  background-color: #8f52a1;
+  background-color: #976ea3;
   border: none;
   color: rgb(251, 227, 227);
-  padding: 15px 32px;
+  padding: 13px 28px;
   text-align: center;
   text-decoration: none;
   display: inline-block;
