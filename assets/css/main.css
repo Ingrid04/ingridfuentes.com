@@ -2276,10 +2276,10 @@ input, select, textarea {
 	font-size: 18px;
 	color: rgb(102, 18, 102);
 }
-.resume{
+.imagefit{
 	position: absolute;
-	max-width: 50%;
-	height: 300px;
+	width: 1050px;
+	height: 1400px;
 }
 .btn btn-primary{
   background-color: #e8eef0;
