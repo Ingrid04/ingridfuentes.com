@@ -2278,6 +2278,8 @@ input, select, textarea {
 }
 .resume{
 	position: absolute;
+	max-width: 50%;
+	height: 300px;
 }
 .btn btn-primary{
   background-color: #e8eef0;
