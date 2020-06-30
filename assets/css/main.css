@@ -2277,7 +2277,7 @@ input, select, textarea {
 	color: rgb(102, 18, 102);
 }
 
-.fa fa-download{
+.btn{
   background-color: #7c5588;
   border: none;
   color: rgb(251, 227, 227);
