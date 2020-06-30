@@ -2281,7 +2281,7 @@ input, select, textarea {
 	width: 1050px;
 	height: 1400px;
 }
-.btn btn-primary{
+.btn{
   background-color: #e8eef0;
   border: none;
   color: rgb(251, 227, 227);
